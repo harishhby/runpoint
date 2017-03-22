@@ -10,24 +10,9 @@
     <classes>
       <class name="com.pointcross.testcases.Scripts.Script1">
         <methods>
-          <include name="Manage_Study_Life_Cycle_Test_1"/>
+          <include name="Test_1"/>
         </methods>
       </class> <!-- com.pointcross.testcases.Scripts.Script1 -->
-      <class name="com.pointcross.testcases.Scripts.Script4">
-        <methods>
-          <include name="CancelSubmission_Reactivate_Test_4"/>
-        </methods>
-      </class> <!-- com.pointcross.testcases.Scripts.Script4 -->
-      <class name="com.pointcross.testcases.Scripts.Script3">
-        <methods>
-          <include name="SP_Creation_Update_Test_3"/>
-        </methods>
-      </class> <!-- com.pointcross.testcases.Scripts.Script3 -->
-      <class name="com.pointcross.testcases.Scripts.Script2">
-        <methods>
-          <include name="Manage_Submission_Package_Lifecycle_Short_Name_for_SP_2"/>
-        </methods>
-      </class> <!-- com.pointcross.testcases.Scripts.Script2 -->
     </classes>
   </test> <!-- Regression1(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

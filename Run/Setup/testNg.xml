@@ -11,9 +11,6 @@
     <classes> 
       
 <class name="com.pointcross.testcases.Scripts.Script1"/>
-<class name="com.pointcross.testcases.Scripts.Script2"/>
-<class name="com.pointcross.testcases.Scripts.Script3"/>
-<class name="com.pointcross.testcases.Scripts.Script4"/>
         </classes>
   </test>
   
